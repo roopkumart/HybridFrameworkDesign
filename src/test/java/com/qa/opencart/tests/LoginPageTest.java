@@ -32,7 +32,7 @@ public class LoginPageTest extends BaseTest {
 		Assert.assertEquals(actTitle, AppConstants.LOGIN_PAGE_TITLE);
 	}
 
-	@Description("login page url test.....")
+	@Description("login page url test...")
 	@Owner("Naveen Automation Labs")
 	@Severity(SeverityLevel.NORMAL)
 	@Test
