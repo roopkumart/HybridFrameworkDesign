@@ -105,7 +105,7 @@ public class DriverFactory {
 	 * @param string
 	 */
 	private void init_remoteDriver(String browserName) {
-		log.info("Running tests on selenoum grid --"+ browserName);
+		log.info("Running tests on selenium grid --"+ browserName);
 
 		try {
 			switch (browserName) {
